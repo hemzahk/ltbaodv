@@ -18,3 +18,9 @@ Makefile
 
 .DS_Store
 Thumbs.db
+
+.settings/
+.qtenvrc
+simulations/run
+
+*.anf
